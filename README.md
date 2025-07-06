@@ -1,6 +1,7 @@
 # Projeto Multimídia – Reprodutor de Vídeo
 
 Este é um projeto simples de reprodutor de vídeo desenvolvido como parte de uma atividade da disciplina de Multimídia. O objetivo é construir uma interface moderna e funcional utilizando **HTML**, **CSS (via TailwindCSS)** e o framework **Next.js com TypeScript**. A aplicação simula o funcionamento básico de um player de vídeo, com botões de play/pause, controle de volume, barra de progresso, fullscreen e atalhos para avanço e retrocesso.
+
 ---
 
 ## Tecnologias Utilizadas
