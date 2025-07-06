@@ -243,7 +243,7 @@ export default function Home() {
 
               {/* Title and Source */}
               <div className="text-right">
-                <h2 className="text-white text-xl font-bold mb-1">Douglas o Coelhão</h2>
+                <h2 className="text-white text-xl font-bold mb-1">Big Buck Bunny</h2>
               </div>
             </div>
           </div>
@@ -255,7 +255,7 @@ export default function Home() {
             <div>
               <h3 className="text-white text-lg font-semibold mb-2">Reproduzindo Agora</h3>
               <p className="text-gray-300 text-sm">
-                Episódio 1 - O mistério sobrenatural continua enquanto Douglas o Coelhão navega através de desafios místicos.
+                Episódio 1 - O mistério sobrenatural continua enquanto o coelho grande navega através de desafios místicos.
               </p>
             </div>
           </div>
